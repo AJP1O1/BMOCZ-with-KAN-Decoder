@@ -1,0 +1,1 @@
+This repository contains the source code for an MLP and KAN-based decoder for BMOCZ. Existing models can be found for both KANs and MLPs when K = 4 bits or K = 6 bits. The train files contain ways to simulate BLER and BER; furthermore, there is a DiZeT simulator included so that the BLER curve can be simulated under flat-fading and AWGN channels.
