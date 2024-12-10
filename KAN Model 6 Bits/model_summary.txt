@@ -1,0 +1,12 @@
+
+            k = 6
+            hd = 150
+            initial_snr = 15.5
+            final_snr = 10.5
+            epochs = 50000
+            batch = 256
+            learning_rate = 0.005
+            learnable_radii = True
+            radii = tensor([0.7806], device='cuda:0')
+            suffle_vector = tensor([ 2.0971,  0.0056,  1.0659, -1.0467,  3.1443, -2.1024], device='cuda:0')
+            

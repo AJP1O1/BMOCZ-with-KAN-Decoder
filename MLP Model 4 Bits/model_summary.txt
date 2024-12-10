@@ -1,0 +1,10 @@
+
+            k = 4
+            hd = 150
+            initial_snr = 15.5
+            final_snr = 10.5
+            epochs = 100000
+            batch = 256
+            learning_rate = 0.005
+            learnable_radii = True
+            
